@@ -1,0 +1,212 @@
+/* .great-show */
+.great-show{
+    display: flex;
+    background-color: black;
+    color: white;
+    font-family:'Poppins', sans-serif; 
+    height: 500px;
+    width: 75%;
+    
+    margin-left: 100px;
+    
+    padding-left: 100px;
+    
+    padding-top: 60px;
+    border-radius: 50px;
+}
+h1{
+    font-size: 3em;
+}
+/* button styles */
+button{
+    background-color: rgba(255, 0, 0, 0.774);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+.great-show img{
+    
+    width: 450px;
+   
+} 
+/* blogs styles */
+.container{
+  background-color: black;
+  width: 40%;
+  height: 100%;
+  margin-top: 80px;
+  margin-left: 50px;
+  border-radius: 10px;
+  margin-bottom: 80px;
+  padding-right: 20px;
+}
+ .box{
+     color: black;
+     text-align: space-evenly;
+     border: solid white 1px;
+     width: 200px; 
+     text-align: center;
+    padding-bottom: 20px;
+     margin-top: 20px;
+     padding-top: 10px;
+     border-radius: 10px;
+     background-color: white;
+     margin-bottom: 20px;
+     margin-left:20px ;
+     padding-left: 20px;
+     font-size: 1.5em;
+     font-weight: 700;
+ }
+ .color{
+     background-color: rgba(255, 0, 0, 0.781);
+     border: none;
+     color: white;
+ }
+ .blogs{
+     display: flex;
+     
+ }
+ h2{
+     width: 90%;
+ }
+ .six-row {
+     display: grid;
+     grid-template-columns:repeat(3,1fr);
+    margin-top: 80px;
+     margin-left: 10px;
+     padding-bottom: 100px;
+     }
+     .transfer{
+         background-color: white;
+         color: black;
+         font-size: medium;
+         padding-left: 40px;
+         padding-right: 40px;
+         margin-top: 10px;
+     }
+
+.first-blog{
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    border-radius: 10px;
+    width: 80%;
+    height: 95%;
+    padding: 10px;
+    
+  
+ } 
+ .second-blogs{
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    border-radius: 10px;
+    width: 80%;
+    height: 95%;
+    padding: 10px;
+    
+    margin-bottom: 10px;
+ }
+ .third-blog{
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    border-radius: 10px;
+    width: 80%;
+    height: 95%;
+    padding: 10px;
+    
+    margin-bottom: 10px;
+ }
+ .fourth-blog{
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    border-radius: 10px;
+    width: 80%;
+    height: 95%;
+    padding: 10px;
+    
+    margin-bottom: 10px;
+ }
+ .fifth-blog{
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    border-radius: 10px;
+    width: 80%;
+    height: 95%;
+    padding: 10px;
+    
+    margin-bottom: 10px;
+ }
+ .sixth-blog{
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    border-radius: 10px;
+    width: 80%;
+    height: 95%;
+    padding: 10px;
+    
+    margin-bottom: 10px;
+ }
+      
+ 
+ 
+ footer{
+text-align: center; 
+color: white;
+background-color: rgba(0, 0, 0, 0.897); 
+padding-top: 60px;
+height: 300px;
+margin-top: 70px;
+ }
+ /* footers */
+ .footer{
+     display: flex;
+   justify-content: center;
+  gap: 40px;
+  color:gray;
+  padding-top:20px;
+ }
+ hr{
+    border: 2px solid grey;
+    width: 80%;
+ }
+ .center-align-icon
+ {
+     display: flex;
+     align-items: center;
+ }
+ img{
+     max-width: 100%;
+ }
+
+
+ /* Styles for Page 2 */
+ .flag {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+p.match-team {
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+p.match-time {
+    text-align: center;
+    margin: 0;
+    color: gray;
+    font-size: 14px;
+}
+.container2
+{
+    width: 260px !important;
+}
+.schedule
+{
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    border-radius: 10px;
+    width: 80%;
+    height: 95%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.full-width
+{
+    width: 100%;
+}
